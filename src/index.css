@@ -1,0 +1,61 @@
+header {
+  height: 100px;
+  display: flex;
+  align-items: center;
+  background-color: sandybrown;
+
+}
+
+header > img {
+  height: 80%;
+  margin-left: 10%;
+}
+
+header > h1 {
+  font-family: monospace;
+  color: whitesmoke;
+  font-size: 200 px;
+  margin-left: 70px;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+  background-color: tomato;
+}
+
+#meme{
+  width : 100vw;
+  height: 90vh;
+}
+
+.holder{
+  width:  40vw;
+  height: 5vh
+}
+
+.btn-default{
+  width: 5vw;
+  height: 5vh;
+}
+
+.text-top{
+  position: absolute;
+  left: 40%;
+  font-size: 50px;
+  color: whitesmoke;
+}
+.text-bot{
+  position: absolute;
+  left: 40%;
+  top: 80%;
+  font-size: 50px;
+  color: whitesmoke
+}
+
+#textAndImage{
+  position: relative;
+  text-align: center;
+}
+
+
