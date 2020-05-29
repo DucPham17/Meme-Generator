@@ -29,6 +29,7 @@ class MemeGenerator extends React.Component {
             [name] : value
        })
        console.log(this.state)
+       console.log(this.state)
     }
 
     handleClick(event){
